@@ -1,0 +1,123 @@
+
+Introduceți numărul de homari: 
+23
+Introduceți capacitatea plasei: 
+9908
+
+Homarul 1: 
+Introduceți dimensiunea: 4462
+Introduceți valoarea: 12406
+
+
+Homarul 2: 
+Introduceți dimensiunea: 32940
+Introduceți valoarea: 26447
+
+
+Homarul 3: 
+Introduceți dimensiunea: 20482
+Introduceți valoarea: 6335
+
+
+Homarul 4: 
+Introduceți dimensiunea: 27644
+Introduceți valoarea: 2079
+
+
+Homarul 5: 
+Introduceți dimensiunea: 22421
+Introduceți valoarea: 3394
+
+
+Homarul 6: 
+Introduceți dimensiunea: 4350
+Introduceți valoarea: 9396
+
+
+Homarul 7: 
+Introduceți dimensiunea: 9537
+Introduceți valoarea: 26430
+
+
+Homarul 8: 
+Introduceți dimensiunea: 12869
+Introduceți valoarea: 19048
+
+
+Homarul 9: 
+Introduceți dimensiunea: 20937
+Introduceți valoarea: 23038
+
+
+Homarul 10: 
+Introduceți dimensiunea: 32069
+Introduceți valoarea: 23281
+
+
+Homarul 11: 
+Introduceți dimensiunea: 14809
+Introduceți valoarea: 2568
+
+
+Homarul 12: 
+Introduceți dimensiunea: 5300
+Introduceți valoarea: 32054
+
+
+Homarul 13: 
+Introduceți dimensiunea: 31631
+Introduceți valoarea: 9368
+
+
+Homarul 14: 
+Introduceți dimensiunea: 6710
+Introduceți valoarea: 4194
+
+
+Homarul 15: 
+Introduceți dimensiunea: 27961
+Introduceți valoarea: 2892
+
+
+Homarul 16: 
+Introduceți dimensiunea: 31544
+Introduceți valoarea: 21815
+
+
+Homarul 17: 
+Introduceți dimensiunea: 29025
+Introduceți valoarea: 26657
+
+
+Homarul 18: 
+Introduceți dimensiunea: 1308
+Introduceți valoarea: 16806
+
+
+Homarul 19: 
+Introduceți dimensiunea: 19463
+Introduceți valoarea: 15774
+
+
+Homarul 20: 
+Introduceți dimensiunea: 1175
+Introduceți valoarea: 12956
+
+
+Homarul 21: 
+Introduceți dimensiunea: 23853
+Introduceți valoarea: 18255
+
+
+Homarul 22: 
+Introduceți dimensiunea: 29784
+Introduceți valoarea: 28702
+
+
+Homarul 23: 
+Introduceți dimensiunea: 25753
+Introduceți valoarea: 15989
+
+Valoarea maximă a capturii este: 61816
+
+[Done] exited with code=0 in 0.461 seconds
